@@ -1,3 +1,12 @@
 {
-  "files": {}
+  "files": {
+    "exe02/main.java": [
+      {
+        "id": "3decae80-eac9-4881-b174-b663bb0526da",
+        "line": 14,
+        "version": 1,
+        "index": 270
+      }
+    ]
+  }
 }
