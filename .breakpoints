@@ -7,6 +7,22 @@
         "version": 1,
         "index": 270
       }
+    ],
+    "exe06/README.md": [
+      {
+        "id": "4daf5615-43bd-415e-96f3-5d4b3d1120c4",
+        "line": 15,
+        "version": 1,
+        "index": 639
+      }
+    ],
+    "exe06/inputs/005": [
+      {
+        "id": "8a24140b-a0e9-495e-a5cd-d963eda22774",
+        "line": 1,
+        "version": 7,
+        "index": 0
+      }
     ]
   }
 }
